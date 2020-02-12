@@ -1,0 +1,10 @@
+.idea
+*.pyc
+*.db
+*logs
+key 
+server.crt
+server.key
+run.sh
+Instagram-API-python/
+instagram-explore/

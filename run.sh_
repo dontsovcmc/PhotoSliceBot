@@ -1,0 +1,1 @@
+python main.py "$(< key)" --host 1.1.1.1 --auth username:password --track UA-xxxxxxxx-x --admin_id 1234
